@@ -30,13 +30,6 @@ skills:
  - cmake
  - Spanish
 
-#Education is required
-education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2019
-   subject: Computer Science
-   school: University of Arkansas at Little Rock
-
 #Work experience is required
 roles:
  - title: Digital Transformations Inter
@@ -55,6 +48,13 @@ roles:
    employer: University of Arkansas at Little Rock
    description: In the EAC I worked on several projects and conducted research in Computer Vision. I created an Interactive floor for the EAC that allows users to move virtual objects based on their movement in the real work with the use of Unity and OpenCV. I also participate in public demonstrations and tours of the EAC Facilities and collaborate in research experiments on user evaluation of developed technologies.
 
+#Education is required
+education:
+ - level: Bachelor of Science (B.Sc.)
+   date: 2019
+   subject: Computer Science
+   school: University of Arkansas at Little Rock
+   
 #List of Interesting Github repo/projects to include
 github:
  - cmonterroza/cmonterroza.github.io
