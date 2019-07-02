@@ -12,7 +12,7 @@ primarylinks:
    url: https://github.com/cmonterroza
  - title: LinkedIn
    url: https://www.linkedin.com/in/cmmonterroza
- - title: StackOverflo
+ - title: StackOverflow
    url: https://stackoverflow.com/users/10409420/cmmonterroza
 
 #Any buzzword skills you want to include
@@ -37,11 +37,13 @@ roles:
    end: July 2019
    employer: Welspun Tubular LLC
    description: As a Digital Transformations Intern I worked closely with the DTS team conducting relevant research in Virtual Reality and taking ownership of creating prototypes to show what would be possible. I was charged with creating requests for quotations and making sure they contained the necessary information to send out to companies for proposals.
+ 
  - title: Engineering and Information Technology (EIT) Student Ambassador
    start: 2018
    end: Present
    employer: University of Arkansas at Little Rock
    description: As a Student Ambassador I’m tasked with monitoring the EIT Student Services Lab and providing technical support. I also serve as a tutor for lower-level courses and provide mentorship to underclassmen within the EIT college.
+ 
  - title: Undergraduate Student Researcher at Emerging Analytics Center (EAC)
    start: 2018
    end: May 2019
