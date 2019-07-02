@@ -12,6 +12,8 @@ primarylinks:
    url: https://github.com/cmonterroza
  - title: LinkedIn
    url: https://www.linkedin.com/in/cmmonterroza
+ - title: StackOverflo
+   url: https://stackoverflow.com/users/10409420/cmmonterroza
 
 #Any buzzword skills you want to include
 skills:
@@ -31,17 +33,17 @@ skills:
 #Work experience is required
 roles:
  - title: Digital Transformations Inter
-   start: May 2019
+   start: 2019
    end: July 2019
    employer: Welspun Tubular LLC
    description: As a Digital Transformations Intern I worked closely with the DTS team conducting relevant research in Virtual Reality and taking ownership of creating prototypes to show what would be possible. I was charged with creating requests for quotations and making sure they contained the necessary information to send out to companies for proposals.
  - title: Engineering and Information Technology (EIT) Student Ambassador
-   start: August 2018
+   start: 2018
    end: Present
    employer: University of Arkansas at Little Rock
    description: As a Student Ambassador I’m tasked with monitoring the EIT Student Services Lab and providing technical support. I also serve as a tutor for lower-level courses and provide mentorship to underclassmen within the EIT college.
  - title: Undergraduate Student Researcher at Emerging Analytics Center (EAC)
-   start: February 2018
+   start: 2018
    end: May 2019
    employer: University of Arkansas at Little Rock
    description: In the EAC I worked on several projects and conducted research in Computer Vision. I created an Interactive floor for the EAC that allows users to move virtual objects based on their movement in the real work with the use of Unity and OpenCV. I also participate in public demonstrations and tours of the EAC Facilities and collaborate in research experiments on user evaluation of developed technologies.
@@ -49,11 +51,20 @@ roles:
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: Fall 2019
+   date: 2019
    subject: Computer Science
    school: University of Arkansas at Little Rock
 
+#List of Interesting Github repo/projects to include
+github:
+ - cmonterroza/cmonterroza.github.io
+ 
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/10409420/cmmonterroza
+   flairimageurl: http://stackoverflow.com/users/flair/10409420.png
+
 intro: |
-  I am a Computer Science Student at the University of Arkansas at Little Rock. I have primarily worked in C++ throughout my coursework, but have experience in several languages such as: Python, HTML, C#, Assembly, Lisp, SQL. Throughout my studies I also have knowledge in Computer Organization, Data Structure and Algorithms, and Language Structures. I also have a strong background math with courses such as Linear Algebra, Discrete Math, and Number Theory. <br/><br/>
+  I am a Computer Science Student at the University ofArkansas at Little Rock. I have primarily worked in C++ throughout my coursework, but have experience in several languages such as: Python, HTML, C#, Assembly, Lisp, SQL. Throughout my studies I also have knowledge in Computer Organization, Data Structure and Algorithms, and Language Structures. I also have a strong background math with courses such as Linear Algebra, Discrete Math, and Number Theory. <br/><br/>
   I have worked on projects with my internships such as an Interactive Floor that uses Computer Vision to allow a projected Unity game to get input from real world movement. To complete the project, I worked on creating a dynamically linked library for Unity to load libraries available in C to C#. Along with that project I have also worked to create a prototype Alexa Skill in python that can help the EAC with public demonstrations and tours.<br/><br/>
   I have internship experience with the Emerging Analytics center with a focus on research and development. I have internship experience with Welspun Tubular LLC in project management. I am currently a Student Ambassador with EIT Student Services and focus on collaboration and tutoring to help underclassmen in subjects related to Computer Science. I am looking for a position in Software Development to continue to grow my coding experience and expertise. 
