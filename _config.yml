@@ -64,8 +64,8 @@ github:
  
 #Stackoverflow flair is optional
 stackoverflow:
-   profileurl: http://stackoverflow.com/users/10409420/cmmonterroza
-   flairimageurl: http://stackoverflow.com/users/flair/10409420.png
+   profileurl: https://stackoverflow.com/users/10409420/cmmonterroza
+   flairimageurl: https://stackoverflow.com/users/flair/10409420.png
 
 intro: |
   I am a Computer Science Student at the University of Arkansas at Little Rock. I have primarily worked in C++ throughout my coursework, but have experience in several languages such as: Python, HTML, C#, Assembly, Lisp, SQL. Throughout my studies I also have knowledge in Computer Organization, Data Structure and Algorithms, and Language Structures. I also have a strong background math with courses such as Linear Algebra, Discrete Math, and Number Theory. <br/><br/>
